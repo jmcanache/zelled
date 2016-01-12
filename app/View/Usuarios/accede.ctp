@@ -8,12 +8,12 @@
           <div class="sixteen columns featured_links" style="margin-left: 0px;">
             <div class="section clearfix offset-by-two">
               <div class="six columns" style="text-align:center;">
-              	<p class="font-human" style="font-size: 26px; color: #ffffff">Inicia sesión en tivia<p>
+              	<p class="font-human" style="font-size: 26px; color: #ffffff">Inicia sesión en ZELLED<p>
  				 <?php echo $this->element('loginform');?>        
  			  </div>
 
               <div class="six columns" style="text-align:center;">
-              	<p class="font-human" style="font-size: 26px; color: #ffffff">Regístrate en tivia<p>
+              	<p class="font-human" style="font-size: 26px; color: #ffffff">Regístrate en ZELLED<p>
 				<?php echo $this->element('registerform');?>   
               </div>
 

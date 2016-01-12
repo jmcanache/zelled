@@ -63,57 +63,7 @@
  * A key/value array of driver specific connection options.
  */
 class DATABASE_CONFIG {
-
-	//CONEXION DE CANACHE-PC
-	/* public $default = array(
-	        'datasource' => 'Database/Mysql',
-	        'persistent' => false,
-	        'host' => 'canache-pc',
-	        'login' => 'root',
-	        'password' => 'abc123',
-	        'database' => 'tiviastore_db',
-	        'prefix' => '',
-	        'encoding' => 'utf8',
-	    );
-
-      CONEXION DE MAURICIO-PC
-      /*  public $default = array(
-      'datasource' => 'Database/Mysql',
-      'persistent' => false,
-      'host' => 'mauricio-pc',
-      'login' => 'nohe',
-      'password' => '',
-      'database' => 'tiviastore_db',
-      'prefix' => '',
-      //'encoding' => 'utf8',
-    );
-
-	CONEXION DE INTERNET
-	public $default = array(
-	  'datasource' => 'Database/Mysql',
-	 		'persistent' => false,
-	 		'host' => 'mysql.2freehosting.com',
-	 		'login' => 'u460228542_tivia',
-	 		'password' => 'Bl^L+^?LG3sv',
-	 		'database' => 'u460228542_tivia',
-	 		'prefix' => '',
-	 		'encoding' => 'utf8',
-	 );
-
-	//CONEXION DE INTERNET V1.0
-	public $default = array(
-	  'datasource' => 'Database/Mysql',
-	 		'persistent' => false,
-	 		'host' => 'mysql.2freehosting.com',
-	 		'login' => 'u460228542_store',
-	 		'password' => 'Bl^L+^?LG3sV',
-	 		'database' => 'u460228542_store',
-	 		'prefix' => '',
-	 		'encoding' => 'utf8',
-	 );
-
-
-
+   /*
 	//CONEXION DE INTERNET V1.0
 	public $default = array(
 	  'datasource' => 'Database/Mysql',
@@ -126,20 +76,6 @@ class DATABASE_CONFIG {
 	 		'encoding' => 'utf8',
 	 );
 
-	//CONEXION DE INTERNET V1.0
-	public $default = array(
-	  'datasource' => 'Database/Mysql',
-			'persistent' => false,
-			'host' => 'raspagana.com',
-			'login' => 'userstore',
-			'password' => 'Bl^L+^?LG3sV',
-			'database' => 'tiviastorebeta_db',
-			'prefix' => '',
-			'encoding' => 'utf8',
-	 );
-
-
-	*/
 
 	public $default = array(
 		'datasource' => 'Database/Mysql',
@@ -152,6 +88,20 @@ class DATABASE_CONFIG {
 		//'encoding' => 'utf8',
 	);
 
+	*/
+
+
+	//CONEXION DE INTERNET V1.0
+	public $default = array(
+	  'datasource' => 'Database/Mysql',
+			'persistent' => false,
+			'host' => 'raspagana.com',
+			'login' => 'userstore',
+			'password' => 'Bl^L+^?LG3sV',
+			'database' => 'zelled_dbase',
+			'prefix' => '',
+			'encoding' => 'utf8',
+	 );
 
 
 }
