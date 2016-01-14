@@ -1,4 +1,4 @@
- <!-- Slider -->
+<!-- Slider -->
 <?php echo $this->element('slider');?>
  <!-- / Slider -->
 
