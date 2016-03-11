@@ -95,10 +95,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 	  'datasource' => 'Database/Mysql',
 			'persistent' => false,
-			'host' => 'raspagana.com',
-			'login' => 'userstore',
-			'password' => 'Bl^L+^?LG3sV',
-			'database' => 'zelled_dbase',
+			'host' => '127.6.232.130',
+			'login' => 'adminMQPRMHn',
+			'password' => 'CzLvTIUzmqUt',
+			'database' => 'zelled',
 			'prefix' => '',
 			'encoding' => 'utf8',
 	 );
