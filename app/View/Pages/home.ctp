@@ -32,7 +32,7 @@
 
 
  <!-- Descubre -->
-<?php echo $this->element('descubre', array('tienda_aleatoria' => $tienda_aleatoria, 'titulo' => "¡Descubre productos de marcas auténticas!", 'background' => 'style="background-color: white;"'));?>
+<?php //echo $this->element('descubre', array('tienda_aleatoria' => $tienda_aleatoria, 'titulo' => "¡Descubre productos de marcas auténticas!", 'background' => 'style="background-color: white;"'));?>
  <!-- / Descubre-->
 
 
@@ -66,7 +66,7 @@
  <!--/ Como funciona -->
 
  <!-- Inspiracion -->
-<?php echo $this->element('inspiracion', array('ds_data' => $ds_data, 'titulo' => "Inspírate"));
+<?php //echo $this->element('inspiracion', array('ds_data' => $ds_data, 'titulo' => "Inspírate"));
  echo '<div class="container content" style="padding-top: 0px">
 		        <div class="container content animatedParent" style="text-align:center;padding-top: 0px;">		  	  
 		           <p style="margin-bottom: 40px;">'.$this->Html->link('Galeria ZELLED', array('controller' => 'productos','action' => 'gallery'), array('class' => 'link_verde', 'style' => 'margin: 0 auto; ')) .'</p>
