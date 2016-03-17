@@ -26,7 +26,7 @@ class ProductosController extends AppController  {
 		
 		if ($this->request->is('post') && $validaciones_ok )
 		{
-			$this->log($this->request->data);
+			//$this->log($this->request->data);
 			$this->request->data['Producto']['tienda_id'] = $actualUser['Tienda']['id'];
 			$this->request->data['Producto']['categoria_id'] = 1; // mientras tanto
 
@@ -140,9 +140,8 @@ class ProductosController extends AppController  {
 					'joins' => array(						
 						array(
 							'conditions' => array('Tiendacourier.courier_id = Courier.id'),
-							'table' => 'Tiendacourier',							
+							'table' => 'courier',							
 							'type' => 'INNER',
-							'alias' => 'c'
 						),
 					),
 					'conditions' => array(
@@ -179,7 +178,7 @@ class ProductosController extends AppController  {
 	 */
 	function updatechildlevelone($name_id = null)
 	{
-		$this->log('entro en updatechildlevelone');
+		//$this->log('entro en updatechildlevelone');
 
 		if (!empty($name_id))
 		{
