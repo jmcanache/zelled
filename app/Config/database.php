@@ -97,7 +97,7 @@ class DATABASE_CONFIG {
 			'persistent' => false,
 			'host' => '127.5.12.2',
 			'login' => 'adminahvkgUI',
-			'password' => 'IlzxHbJiBNx',
+			'password' => 'IlzxHbJiBNxn',
 			'database' => 'zelled',
 			'prefix' => '',
 			'encoding' => 'utf8',
