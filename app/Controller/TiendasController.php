@@ -30,7 +30,7 @@ class TiendasController extends AppController  {
 		$actualUser = $this->viewVars['actualUser'];		
 		$imagenesensesion = $this->Session->read('imagenestemporales'); //leyendo las imagenes que fueron cargadas
 		if(!empty($actualUser['Tienda']['id'])){
-			$this->Session->setFlash(__('Sorry ' .$actualUser['Usuario']['nombre'] . ', sucede que ya posees una tienda en tivia y solo puedes tener una por usuario registrado.', true), 'flash_bad');
+			$this->Session->setFlash(__('Sorry ' .$actualUser['Usuario']['nombre'] . ', sucede que ya posees una tienda en zelled y solo puedes tener una por usuario registrado.', true), 'flash_bad');
 			$this->redirect(array('controller' => 'usuarios', 'action' => 'perfil_usuario'));
 		}
 	
@@ -102,7 +102,7 @@ class TiendasController extends AppController  {
 						if(isset($this->request->data['Courier'])){
 							foreach ($this->request->data['Courier'] as $tc) {
 								$datacourier = $this->Tiendacourier->create();								
-								$datacourier['Tiendacourier']['tienda_id'] = $this->Tienda->id;;
+								$datacourier['Tiendacourier']['tienda_id'] = $this->Tienda->id;
 								$datacourier['Tiendacourier']['courier_id'] = $tc;
 						
 								if($this->Tiendacourier->save($datacourier['Tiendacourier']))
