@@ -24,7 +24,7 @@
 		echo $this->Html->link('¿Olvidaste tu contraseña?', array('controller' => 'Usuarios', 'action' => 'reset_password'), array('escape' => false));?></p>
     </a>
 	<p><?php
-		//echo $this->Form->button(__('Entrar'), array('class' => 'boton_verde', 'style' => 'width:100%'));
+		echo $this->Form->button(__('Entrar'), array('class' => 'boton_verde', 'style' => 'width:100%'));
 	?></p><?php
 	echo $this->Form->end();?>
 </div>
