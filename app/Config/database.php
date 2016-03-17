@@ -95,9 +95,9 @@ class DATABASE_CONFIG {
 	public $default = array(
 	  'datasource' => 'Database/Mysql',
 			'persistent' => false,
-			'host' => '127.6.232.130',
-			'login' => 'adminMQPRMHn',
-			'password' => 'CzLvTIUzmqUt',
+			'host' => '127.5.12.2',
+			'login' => 'adminahvkgUI',
+			'password' => 'IlzxHbJiBNxn',
 			'database' => 'zelled',
 			'prefix' => '',
 			'encoding' => 'utf8',
