@@ -1,0 +1,1 @@
+<p>HISTORIAL DE COMPRA</p>

@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="900"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logoNuevoEnero.svg"
+   inkscape:export-filename="C:\Users\Mauricio\Desktop\logoTIVIA.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4284"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       id="clipPath1800">
+      <path
+         id="path1802"
+         inkscape:connector-curvature="0"
+         d="m 5659.75,4358.71 0,0 0,262.41 0,162.08 1.12,0 0,-423.86 -1.12,-0.63" />
+    </clipPath>
+    <clipPath
+       id="clipPath1788">
+      <path
+         id="path1790"
+         inkscape:connector-curvature="0"
+         d="m 5660.87,4358.71 -1.12,0 1.12,0.63 0,-0.63" />
+    </clipPath>
+    <clipPath
+       id="clipPath1776">
+      <path
+         id="path1778"
+         inkscape:connector-curvature="0"
+         d="m 5660.87,3880.8 -360,0 0,902.4 358.88,0 0,-162.08 0,-262.41 1.12,0 0,-477.91" />
+    </clipPath>
+    <clipPath
+       id="clipPath1764">
+      <path
+         id="path1766"
+         inkscape:connector-curvature="0"
+         d="m 5310,3880 351,0 0,1 -351,0 0,-1 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1752">
+      <path
+         id="path1754"
+         inkscape:connector-curvature="0"
+         d="m 49.6719,4788 0,-912 5265.5981,0 0,912 -5265.5981,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1746">
+      <path
+         id="path1748"
+         inkscape:connector-curvature="0"
+         d="m 5660.87,3880.8 -5606.3973,0 0,902.4 5246.3973,0 0,-902.4 360,0" />
+    </clipPath>
+    <clipPath
+       id="clipPath1218">
+      <path
+         id="path1220"
+         inkscape:connector-curvature="0"
+         d="m 5659.75,832.09 0,0 0,262.4 1.12,0 0,-261.771 -1.12,-0.629" />
+    </clipPath>
+    <clipPath
+       id="clipPath1206">
+      <path
+         id="path1208"
+         inkscape:connector-curvature="0"
+         d="m 5660.87,1094.49 -1.12,0 0,172.76 1.12,0 0,-172.76" />
+    </clipPath>
+    <clipPath
+       id="clipPath1194">
+      <path
+         id="path1196"
+         inkscape:connector-curvature="0"
+         d="m 5660.87,832.09 -1.12,0 1.12,0.629 0,-0.629" />
+    </clipPath>
+    <clipPath
+       id="clipPath1182">
+      <path
+         id="path1184"
+         inkscape:connector-curvature="0"
+         d="m 5660.87,364.852 -360,0 0,902.398 358.88,0 0,-172.76 0,-262.4 1.12,0 0,-467.238" />
+    </clipPath>
+    <clipPath
+       id="clipPath1170">
+      <path
+         id="path1172"
+         inkscape:connector-curvature="0"
+         d="m 5310,364 351,0 0,1 -351,0 0,-1 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1158">
+      <path
+         id="path1160"
+         inkscape:connector-curvature="0"
+         d="m 49.6719,1272.05 0,-911.999 5265.5981,0 0,911.999 -5265.5981,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1152">
+      <path
+         id="path1154"
+         inkscape:connector-curvature="0"
+         d="m 5660.87,364.852 -5606.3973,0 0,902.398 5246.3973,0 0,-902.398 360,0" />
+    </clipPath>
+    <clipPath
+       id="clipPath304">
+      <path
+         id="path306"
+         inkscape:connector-curvature="0"
+         d="m 10907.3,3880.8 -5246.43,0 0,477.91 1.71,0 1.27,2.27 -1.27,-2.27 293.66,0 -70.13,125.3 540.56,299.19 4480.63,0 0,-902.4" />
+    </clipPath>
+    <clipPath
+       id="clipPath34">
+      <path
+         id="path36"
+         inkscape:connector-curvature="0"
+         d="m 10907.3,364.852 -5246.43,0 0,467.238 1.71,0 293.66,0 11.82,0 293.65,0 11.83,0 293.65,0 11.81,0 293.67,0 11.83,0 293.66,0 11.82,0 293.66,0 11.82,0 293.66,0 11.82,0 293.65,0 11.82,0 293.66,0 11.83,0 293.61,0 11.83,0 293.71,0 11.81,0 293.62,0 11.82,0 293.73,0 11.82,0 293.62,0 11.82,0 293.61,0 11.9,0 293.6,0 8.3,0 0,262.4 0,172.76 360.6,0 0,-902.398" />
+    </clipPath>
+    <radialGradient
+       spreadMethod="pad"
+       gradientTransform="matrix(684.988,0,0,-649.989,548,390)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient22"
+       fy="0"
+       fx="0"
+       r="1"
+       cy="0"
+       cx="0">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop24" />
+      <stop
+         offset="1"
+         style="stop-color:#e8e8e7;stop-opacity:1"
+         id="stop26" />
+    </radialGradient>
+    <clipPath
+       id="clipPath18">
+      <path
+         id="path20"
+         inkscape:connector-curvature="0"
+         d="M 10960,0 0,0 l 0,7800 10960,0 0,-7800 m -5299.13,364.852 5246.43,0 0,902.398 -360.6,0 0,96.01 0,4.18 0,4.18 0,2175.43 -4886.95,0 0,-1.29 0,-267.5 0,-267.52 0,-5.47 0,-5.45 0,-267.53 0,-267.48 0,-5.47 0,-5.47 0,-267.48 0,-267.52 0,-5.45 0,-5.47 0,-267.54 0,-267.5 0,-5.47 0,-5.47 0,-94.72 -358.88,0 -5246.3973,0 0,-902.398 5606.3973,0 m 0,3515.948 5246.43,0 0,902.4 -4480.63,0 1686.25,933.34 -2453.17,1357.15 0,-2185.09 0,-105.4 -358.88,0 -5246.3973,0 0,-902.4 5606.3973,0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4839">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#888888;stroke-width:1.63399994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4841"
+         width="442.5"
+         height="311.25"
+         x="1158.75"
+         y="703.61218"
+         ry="25.659674" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4845">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#888888;stroke-width:1.83404112;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4847"
+         width="916.04999"
+         height="167.29996"
+         x="2038.85"
+         y="909.96222"
+         ry="25.629028" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3124">
+      <rect
+         style="fill:#64c7cb;fill-opacity:1;stroke:#888888;stroke-width:1.47409248;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3126"
+         width="159.97539"
+         height="282.96967"
+         x="-1203.2245"
+         y="-269.86124"
+         ry="0"
+         transform="matrix(0.7031464,-0.7110451,0.72209649,0.69179235,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3124-4">
+      <rect
+         style="fill:#64c7cb;fill-opacity:1;stroke:#888888;stroke-width:1.47409248;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3126-0"
+         width="159.97539"
+         height="282.96967"
+         x="-1203.2245"
+         y="-269.86124"
+         ry="0"
+         transform="matrix(0.7031464,-0.7110451,0.72209649,0.69179235,0,0)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-890.84114"
+     inkscape:cy="672.31536"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-152.36218)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:1.56034839;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4277"
+       width="570.07367"
+       height="257.57364"
+       x="135.96318"
+       y="187.32536"
+       ry="3.6963892" />
+    <path
+       style="fill:#d881b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2194-7"
+       inkscape:connector-curvature="0"
+       d="m 330.3469,659.09563 77.10528,0 -38.54885,-68.90179 -38.55643,68.90179" />
+    <path
+       style="fill:#aadbcc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2196-4"
+       inkscape:connector-curvature="0"
+       d="m 368.90333,590.19384 38.54885,68.90179 38.55392,-68.90179 -77.10277,0" />
+    <path
+       style="fill:#64c7cb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2198-0"
+       inkscape:connector-curvature="0"
+       d="m 407.45218,659.09563 77.11287,0 -38.55895,-68.90179 -38.55392,68.90179" />
+    <path
+       style="fill:#f49990;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2240-9"
+       inkscape:connector-curvature="0"
+       d="m 330.3469,659.09563 38.55643,68.90937 38.54885,-68.90937 -77.10528,0" />
+    <path
+       style="fill:#962d87;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2242-4"
+       inkscape:connector-curvature="0"
+       d="m 368.90333,728.005 77.10277,0 -38.55392,-68.90937 -38.54885,68.90937" />
+    <path
+       style="fill:#f29db6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2244-8"
+       inkscape:connector-curvature="0"
+       d="m 407.45218,659.09563 38.55392,68.90937 38.55895,-68.90937 -77.11287,0" />
+    <path
+       style="fill:#f7968c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2302-8"
+       inkscape:connector-curvature="0"
+       d="m 214.68265,728.005 38.55391,68.8942 38.55895,-68.8942 -77.11286,0" />
+    <path
+       style="fill:#f17496;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2304-2"
+       inkscape:connector-curvature="0"
+       d="m 253.23656,796.8992 77.11034,0 -38.55139,-68.8942 -38.55895,68.8942" />
+    <path
+       style="fill:#0cbabc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2308-4"
+       inkscape:connector-curvature="0"
+       d="m 330.3469,796.8992 77.10528,0 -38.54885,-68.8942 -38.55643,68.8942" />
+    <path
+       style="fill:#f7968d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2310-5"
+       inkscape:connector-curvature="0"
+       d="m 368.90333,728.005 38.54885,68.8942 38.55392,-68.8942 -77.10277,0" />
+    <path
+       style="fill:#8acfba;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2372-5"
+       inkscape:connector-curvature="0"
+       d="m 253.23656,796.8992 37.0672,66.23378 2.98351,0 37.05963,-66.23378 -77.11034,0" />
+    <path
+       style="fill:#c5e5d8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2374-1"
+       inkscape:connector-curvature="0"
+       d="m 293.28727,863.13298 74.12427,0 -37.06464,-66.23378 -37.05963,66.23378" />
+    <path
+       style="fill:#87cdb3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2376-7"
+       inkscape:connector-curvature="0"
+       d="m 330.3469,796.8992 37.06464,66.23378 2.98356,0 37.05708,-66.23378 -77.10528,0" />
+    <path
+       style="fill:#6cbcc9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2448-1"
+       inkscape:connector-curvature="0"
+       d="m 176.12875,659.09563 77.10781,0 -38.55391,-68.90179 -38.5539,68.90179" />
+    <path
+       style="fill:#acd6c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2450-1"
+       inkscape:connector-curvature="0"
+       d="m 214.68265,590.19384 38.55391,68.90179 38.55895,-68.90179 -77.11286,0" />
+    <path
+       style="fill:#9f89c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2464-5"
+       inkscape:connector-curvature="0"
+       d="m 176.12875,659.09563 38.5539,68.90937 38.55391,-68.90937 -77.10781,0" />
+    <path
+       style="fill:#d161a5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2466-2"
+       inkscape:connector-curvature="0"
+       d="m 214.68265,728.005 77.11286,0 -38.55895,-68.90937 -38.55391,68.90937" />
+    <path
+       style="fill:#f17496;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2468-7"
+       inkscape:connector-curvature="0"
+       d="m 253.23656,659.09563 38.55895,68.90937 38.55139,-68.90937 -77.11034,0" />
+    <path
+       style="fill:#ee4989;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2470-6"
+       inkscape:connector-curvature="0"
+       d="m 291.79551,728.005 77.10782,0 -38.55643,-68.90937 -38.55139,68.90937" />
+    <path
+       style="fill:#d881b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2482-1"
+       inkscape:connector-curvature="0"
+       d="m 253.23656,659.09563 77.11034,0 -38.55139,-68.90179 -38.55895,68.90179" />
+    <path
+       style="fill:#b05a96;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2380-3"
+       inkscape:connector-curvature="0"
+       d="m 291.79045,727.87499 37.06214,67.32464 2.98609,0 37.06465,-67.32464 -77.11288,0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3039-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(9.6663984,0,0,9.6663984,-3003.1615,-1104.0403)"><flowRegion
+         id="flowRegion3041-7"><rect
+           id="rect3043-8"
+           width="746"
+           height="266"
+           x="366"
+           y="162"
+           style="fill:#b3b3b3;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3045-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;fill-opacity:1;font-family:KG Manhattan Script;-inkscape-font-specification:KG Manhattan Script">tivia</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3039"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#612d87;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(9.6663984,0,0,9.6663984,-3004.4223,-1117.2196)"><flowRegion
+         id="flowRegion3041"><rect
+           id="rect3043"
+           width="746"
+           height="266"
+           x="366"
+           y="162"
+           style="fill:#612d87;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#612d87;fill-opacity:1;font-family:KG Manhattan Script;-inkscape-font-specification:KG Manhattan Script">tivia</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3047"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.8453678,0,0,1.8453678,2225.466,-174.04095)"><flowRegion
+         id="flowRegion3049"><rect
+           id="rect3051"
+           width="450"
+           height="128"
+           x="-832"
+           y="556"
+           style="fill:#4d4d4d;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3053"
+         style="-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">S T O R E</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4188"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-133.5,182.36218)"><flowRegion
+         id="flowRegion4190"><rect
+           id="rect4192"
+           width="895"
+           height="132.5"
+           x="305"
+           y="72.5"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara4194"><flowSpan
+           style="text-align:center;text-anchor:middle;fill:#333333"
+           id="flowSpan4219"> </flowSpan></flowPara><flowPara
+         id="flowPara4217">TIVIA: KG Manhattan Script</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4188-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-129.70703,147.46463)"><flowRegion
+         id="flowRegion4190-6"><rect
+           id="rect4192-2"
+           width="895"
+           height="132.5"
+           x="305"
+           y="72.5"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara4217-7">FUENTES</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4188-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-132.20703,297.46463)"><flowRegion
+         id="flowRegion4190-5"><rect
+           id="rect4192-1"
+           width="895"
+           height="132.5"
+           x="305"
+           y="72.5"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara4217-9">Store: Sans</flowPara></flowRoot>    <rect
+       style="fill:#59a09a;fill-opacity:1;stroke:#888888;stroke-width:0.38143864;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3128"
+       width="53.909252"
+       height="93.164909"
+       x="-1005.5463"
+       y="280.81589"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3071"
+       width="207.5"
+       height="355"
+       x="-945"
+       y="767.36218"
+       clip-path="url(#clipPath3124)"
+       transform="matrix(-0.26943525,-0.00416733,0.00416733,-0.26943525,-1207.5078,578.03275)"
+       inkscape:transform-center-y="51.872482"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#59a09a;fill-opacity:0;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3904"
+       width="375"
+       height="227.5"
+       x="-1330"
+       y="710"
+       transform="translate(0,152.36218)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3908"
+       sodipodi:cx="-932.5"
+       sodipodi:cy="223.75"
+       sodipodi:rx="22.5"
+       sodipodi:ry="18.75"
+       d="m -910,223.75 a 22.5,18.75 0 1 1 -45,0 22.5,18.75 0 1 1 45,0 z"
+       transform="matrix(0.38992483,0,0,0.38992483,-614.35506,219.20177)"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3906"
+       width="29.66428"
+       height="23.514368"
+       x="-993.16699"
+       y="307.90967"
+       ry="4.7028742"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#59a09a;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3908-7"
+       sodipodi:cx="-932.5"
+       sodipodi:cy="223.75"
+       sodipodi:rx="22.5"
+       sodipodi:ry="18.75"
+       d="m -910,223.75 a 22.5,18.75 0 1 1 -45,0 22.5,18.75 0 1 1 45,0 z"
+       transform="matrix(0.30327487,0,0,0.30327487,-695.15614,241.54663)"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3934"
+       width="17.546618"
+       height="10.722933"
+       x="-986.73328"
+       y="307.3248"
+       ry="4.7028742"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#69388d;fill-opacity:1;stroke:#888888;stroke-width:0.38143864000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3128-9"
+       width="53.909252"
+       height="93.164909"
+       x="-932.57068"
+       y="381.25726"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3071-4"
+       width="207.5"
+       height="355"
+       x="-945"
+       y="767.36218"
+       clip-path="url(#clipPath3124-4)"
+       transform="matrix(-0.26943525,-0.00416733,0.00416733,-0.26943525,-1134.5322,678.47412)"
+       inkscape:transform-center-y="51.872482"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3908-8"
+       sodipodi:cx="-932.5"
+       sodipodi:cy="223.75"
+       sodipodi:rx="22.5"
+       sodipodi:ry="18.75"
+       d="m -910,223.75 a 22.5,18.75 0 1 1 -45,0 22.5,18.75 0 1 1 45,0 z"
+       transform="matrix(0.38992483,0,0,0.38992483,-541.37942,319.64314)"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3906-8"
+       width="29.66428"
+       height="23.514368"
+       x="-920.19135"
+       y="408.35104"
+       ry="4.7028742"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#69388d;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3908-7-2"
+       sodipodi:cx="-932.5"
+       sodipodi:cy="223.75"
+       sodipodi:rx="22.5"
+       sodipodi:ry="18.75"
+       d="m -910,223.75 a 22.5,18.75 0 1 1 -45,0 22.5,18.75 0 1 1 45,0 z"
+       transform="matrix(0.30327487,0,0,0.30327487,-622.1805,341.988)"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#888888;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3934-4"
+       width="17.546618"
+       height="10.722933"
+       x="-913.75763"
+       y="407.76617"
+       ry="4.7028742"
+       inkscape:export-filename="C:\xampp\htdocs\xampp\repos\tivia\app\webroot\img\cinta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+.choose_file{
+    position:relative;
+    display:inline-block;
+	border-radius:8px;
+    border:1px solid #bdbdbd;
+    width:100%;
+    padding: 12px 20% 12px 20%;
+    color: #7f7f7f;
+    margin-top: 2px;
+	background:white
+}
+.choose_file input[type="file"], .choose_file_form input[type="file"]{
+    -webkit-appearance:none;
+    position:absolute;
+    top:0; left:0;
+    opacity:0;
+}
+p.choose_file{
+	text-align: center;
+}
+
+.choose_file_form{
+    position:relative;
+    display:inline-block;
+    border-radius:2px;
+    width:100%;
+    padding: 12px 20% 12px 20%;
+    color: #7f7f7f;
+    background:white
+}
+
+#imagePreview1 {
+    width: 120px;
+    height: 120px;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+    border-radius: 5px;
+}
+#imagePreview2 {
+    width: 120px;
+    height: 120px;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+    border-radius: 5px;
+}
+#imagePreview3 {
+    width: 120px;
+    height: 120px;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.imagePreviewBorder{
+	border-radius: 5px;
+	padding: 10px;
+	width: 144px;
+	border: 1px solid #ffffff;
+}
+
+.imagePreviewBorder1{
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ffffff;
+}
+
+.imagePreviewBorder2{
+    border-radius: 5px;
+    padding: 10px;
+    width: 144px;
+    border: 1px solid #ffffff;
+}
+
+.imagePreviewBorder3{
+    border-radius: 5px;
+    padding: 10px;
+    width: 144px;
+    border: 1px solid #ffffff;
+}
+
+p#label-style > label {
+    padding-left: 10px;
+}
+
+
+#imagePreviewPeq {
+    width: 25px;
+    height: 25px;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.imagePreviewBorderPeq{
+    border-radius: 5px;
+    /*padding: 5px; */
+    width: 25px;
+    height: 25px;
+    border: 1px solid #ffffff;
+}

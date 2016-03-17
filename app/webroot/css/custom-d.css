@@ -1,0 +1,305 @@
+.notouch .main-bg {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.block-home-feature {
+    background-attachment: fixed;
+    background-position: left top !important;
+    background-size: cover;
+    padding-top: 83px;
+    text-align: center;
+}
+.block-home-feature {
+    overflow: hidden;
+    text-align: center;
+}
+.inner-container {
+    width: 1200px;
+}
+
+.inner-container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.notouch .animated.fadeInUp {
+    animation-name: fadeInUp;
+}
+
+.notouch .animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    opacity: 1 !important;
+}
+
+.block-home-feature h3 {
+    color: #ffffff !important;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.block-home-feature p {
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.block-feature-detail {
+    margin-bottom: 90px;
+    margin-top: 86px;
+    overflow: hidden;
+}
+
+
+.block-home-feature .feature-1 span,
+.block-home-feature .feature-2 span,
+.block-home-feature .feature-3 span,
+.block-home-feature .feature-4 span{
+    color:#ffffff;
+    font-weight:700;
+    font-size:20px;
+    text-transform:uppercase;
+    display:block;
+    margin-bottom:13px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.block-home-feature .image {
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.image {
+    position: relative;
+}
+
+.block-home-feature .feature-1 span, .block-home-feature .feature-2 span, .block-home-feature .feature-3 span, .block-home-feature .feature-4 span {
+    color: #ffffff;
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+
+.block-home-feature .feature-1 p, .block-home-feature .feature-2 p, .block-home-feature .feature-3 p, .block-home-feature .feature-4 p {
+    color: #e8e8e8;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.col-md-6-alter {
+    width: 25%;
+}
+
+<!-- bloque4 -->
+
+.newletter {
+    text-align: center;
+}
+
+inner-container.wide, #page-container.boxed {
+    background-position: left top;
+    background-repeat: repeat;
+}
+
+.newletter h3.snd-title:before {
+    border-top: 1px solid #cccccc;
+    content: "";
+    display: block;
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    z-index: 1;
+}
+
+.newletter h3.snd-title {
+    margin-bottom: 0;
+    position: relative;
+}
+
+.newletter h3 {
+    color: #202020;
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+
+.newletter span {
+    background-color: #fff;
+    display: inline-block;
+    max-width: 545px;
+    padding: 0 40px;
+    position: relative;
+    z-index: 2;
+}
+
+.newletter p {
+    color: gray;
+    margin-bottom: 19px;
+    font-size: 21px;
+}
+
+.newletter > div {
+    border-bottom: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    margin-top: -10px;
+    padding-bottom: 43px;
+    padding-top: 56px;
+}
+
+.newletter .form-control {
+    display: inline-block;
+    height: 50px;
+    margin: 0 18px 0 0;
+    padding-left: 18px;
+    padding-right: 18px;
+    width: 39%;
+}
+.form-control:focus, .form-control:hover {
+    outline: 0 none;
+}
+
+#subscribe > table {
+    background-color: transparent;
+    width: 100%;
+}
+
+input[type="text"], input[type="password"], textarea, select {
+    border: 1px solid #bdbdbd;
+    border-radius: 4px;
+}
+
+.newletter .btn {
+    height: 50px;
+    padding-top: 12px;
+}
+
+.inner-btn {
+    background-color: #cccccc;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    height: 40px;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    padding: 9px 26px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    transition-duration: 0.3s;
+    vertical-align: middle;
+    white-space: normal;
+}
+
+.form-control {
+    background-color: #fff;
+    background-image: none;
+    color: #555;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    vertical-align: middle;
+    width: 43%;
+}
+.inner-btn:hover {
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+}
+
+<!-- SOCIAL MEDIA -->
+
+img.fcb {
+    background-image: url('../img/fcb.png');
+    background-size: 80px 70px;
+    display: inline-block;
+    width:  80px;
+    height: 70px;
+}
+
+img.fcb:hover {
+    background-image: url('../img/fcbhover.png');
+    background-size: 80px 70px;
+    display: inline-block;
+    width:  80px;
+    height: 70px; 
+}
+
+img.insta {
+    background-image: url('../img/insta.png');
+    background-size: 80px 70px;
+    width:  80px;
+    height: 70px;
+    display: inline-block;
+}
+
+img.insta:hover {
+    background-image: url('../img/instahover.png');
+    background-size: 80px 70px;
+    width:  80px;
+    height: 70px;
+    display: inline-block;
+}
+
+.btn-huge-gray{
+    border: 2px solid #cccccc;
+    letter-spacing: 2px;
+    margin-top: 0;
+    padding: 12px;
+    text-transform: uppercase;
+}
+
+.btn-huge-white{
+    border: 2px solid #cccccc;
+    letter-spacing: 2px;
+    margin-top: 0;
+    padding: 12px;
+    text-transform: uppercase;
+}
+
+.btnpositioning{
+    margin: auto;
+    padding-bottom: 0;
+    padding-top: 0;
+    position: relative;
+    top: 40px;
+}
+
+.btn-classx{
+    left: 34%;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    position: absolute;
+}
+.btn-class{
+    margin-bottom: 15px;
+    margin-top: 30px;
+    padding-left: 35%;
+}
