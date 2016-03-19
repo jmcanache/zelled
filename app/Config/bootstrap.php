@@ -102,7 +102,8 @@ $__singular = array(
 		'ciudades' => 'ciudad',
 		'orders' => 'order',
 		'metodotransferencias' => 'metodotransferencia',
-		'metodotdcs' => 'metodotdc'
+		'metodotdcs' => 'metodotdc',
+		'tiendacouriers' => 'tiendacourier'
 );
 
 Configure::write('Dispatcher.filters', array(

@@ -40,7 +40,7 @@
       		Al registrarte, confirmas que aceptas los Términos y Condiciones de tivia</p>
     </a>
 	<p><?php
-		//echo $this->Form->button(__('Registrarme'), array('class' => 'boton_morado', 'style' => 'width:100%'));
+		echo $this->Form->button(__('Registrarme'), array('class' => 'boton_morado', 'style' => 'width:100%'));
 	?></p><?php
 	echo $this->Form->end();
 ?> </div>
