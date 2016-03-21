@@ -77,9 +77,9 @@ class PagesController extends AppController {
 
 	function home (){
 		$this->layout = 'store';
-		//$ds_data = $this->Producto->ProductosInspirate();
-		//$tienda_aleatoria= $this->Tienda->tiendas_random();
-		//$this->set(compact('ds_data', 'tienda_aleatoria'));			
+		$ds_data = $this->Producto->ProductosInspirate();
+		$tienda_aleatoria= $this->Tienda->tiendas_random();
+		$this->set(compact('ds_data', 'tienda_aleatoria'));			
 	}
 	
 	function afterFilter()
