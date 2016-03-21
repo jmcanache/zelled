@@ -1,3 +1,0 @@
-#!/bin/bash
-rm -f $OPENSHIFT_REPO_DIR/avatar
-rm -f $OPENSHIFT_REPO_DIR/file
