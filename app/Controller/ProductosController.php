@@ -50,7 +50,7 @@ class ProductosController extends AppController  {
 							{
 								$thumb_name = 'thumb_'.time();
 								$rutathumb_db = $this->Tienda->find('first', array('fields' => array('ruta_thumb'),'conditions' => array('Tienda.id' => $actualUser['Tienda']['id']),  'recursive' => -1));
-								$rutathumb = 'img/todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';											
+								$rutathumb = $OPENSHIFT_DATA_DIR . '/test/' .$thumb_name.'.jpg';											
 							    $thumb_generado = $this->Imgupload->createThumb($ds['Foto']['foto_principal'], $rutathumb, $img['type']);
 								
 								if(!$thumb_generado){
@@ -58,7 +58,7 @@ class ProductosController extends AppController  {
 									$validaciones_ok = false;
 								}
 							
-								$ds['Foto']['ruta_thumb'] = $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';
+								$ds['Foto']['ruta_thumb'] = 'test/' .$thumb_name.'.jpg';
 								$ds['Foto']['nombre_archivo'] = $thumb_name.'.jpg';
 								$primera_foto = false;
 							}
