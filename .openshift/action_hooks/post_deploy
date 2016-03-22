@@ -1,3 +1,5 @@
 #!/bin/bash
 ln -s /var/lib/openshift/56eadf3f0c1e66b5dc000169/app-root/data/test /var/lib/openshift/56eadf3f0c1e66b5dc000169/app-root/runtime/repo/test
 chmod -R o+rw $OPENSHIFT_REPO_DIR/test
+ln -s /var/lib/openshift/56eadf3f0c1e66b5dc000169/app-root/data/todosproductos /var/lib/openshift/56eadf3f0c1e66b5dc000169/app-root/runtime/repo/todosproductos
+chmod -R o+rw $OPENSHIFT_REPO_DIR/todosproductos
