@@ -72,8 +72,13 @@ class TiendasController extends AppController  {
 						//El usuario no debe volver atras en el navegador.
 						//Esta carpeta se debe crear una unica vez.		
 						
+						//las siguientes dos lineas de codigo es para que funcione en openshift
 						$env_var = getenv('OPENSHIFT_DATA_DIR');
 						$thepath = $env_var . 'todosproductos' . DS . $prefix;
+						
+						//las siguiente linea de codigo son el codigo para que funcione en un servidor que no sea openshift
+						//$thepath = 'img'. DS . 'todosproductos' . DS . $prefix;
+
 						//$thepath = WWW_ROOT."todosproductos". DS . $prefix; // todosproductos es una carpeta que ya esta creada. alli van todas las carpetas de las tiendas
 						$crearCarpeta = $this->imagenesUtilidades->crearCarpeta($thepath);
 						

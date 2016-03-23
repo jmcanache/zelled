@@ -48,9 +48,10 @@ class ProductosController extends AppController  {
 							#CREAR THUMBNAIL A PARTIR DE IMAGEN ORIGINAL DE SOLO LA PRIMERA FOTO
 							if($primera_foto)
 							{
+								$env_var = getenv('OPENSHIFT_DATA_DIR');
 								$thumb_name = 'thumb_'.time();
 								$rutathumb_db = $this->Tienda->find('first', array('fields' => array('ruta_thumb'),'conditions' => array('Tienda.id' => $actualUser['Tienda']['id']),  'recursive' => -1));
-								$rutathumb = 'img/todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';											
+								$rutathumb = $env_var.'todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';											
 							    $thumb_generado = $this->Imgupload->createThumb($ds['Foto']['foto_principal'], $rutathumb, $img['type']);
 								
 								if(!$thumb_generado){
@@ -443,11 +444,12 @@ class ProductosController extends AppController  {
 						$imgkey = key($imagenesensesion);
 						#CREAR THUMBNAIL A PARTIR DE IMAGEN ORIGINAL DE SOLO LA PRIMERA FOTO
 						if($imgkey == 1){
+								$env_var = getenv('OPENSHIFT_DATA_DIR');
 								$thumb_anterior = $this->Foto->find('first', array('fields' => array('ruta_thumb'),'conditions' => array('Foto.id' => $img['fotoid']),  'recursive' => -1));
 								$borra_thumb = true; //bandera para borrar thumb anterior
 								$thumb_name = 'thumb_'.time();
 								$rutathumb_db = $this->Tienda->find('first', array('fields' => array('ruta_thumb'),'conditions' => array('Tienda.id' => $actualUser['Tienda']['id']),  'recursive' => -1));
-								$rutathumb = 'img/todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';
+								$rutathumb = $env_var.'todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';
 								$thumb_generado = $this->Imgupload->createThumb($ds['Foto']['foto_principal'], $rutathumb, $img['type']);
 				
 										if(!$thumb_generado){
