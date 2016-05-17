@@ -51,7 +51,10 @@ class ProductosController extends AppController  {
 								$env_var = getenv('OPENSHIFT_DATA_DIR');
 								$thumb_name = 'thumb_'.time();
 								$rutathumb_db = $this->Tienda->find('first', array('fields' => array('ruta_thumb'),'conditions' => array('Tienda.id' => $actualUser['Tienda']['id']),  'recursive' => -1));
+								//la siguiente liena es para que funcione en openshift
 								$rutathumb = $env_var.'todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';											
+							    //la siguiente liena es para que funcione en otro servidor que no sea openshift
+							    //$rutathumb = 'img/todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';
 							    $thumb_generado = $this->Imgupload->createThumb($ds['Foto']['foto_principal'], $rutathumb, $img['type']);
 								
 								if(!$thumb_generado){
@@ -449,7 +452,10 @@ class ProductosController extends AppController  {
 								$borra_thumb = true; //bandera para borrar thumb anterior
 								$thumb_name = 'thumb_'.time();
 								$rutathumb_db = $this->Tienda->find('first', array('fields' => array('ruta_thumb'),'conditions' => array('Tienda.id' => $actualUser['Tienda']['id']),  'recursive' => -1));
+								//la siguiente liena es para que funcione en openshift
 								$rutathumb = $env_var.'todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';
+								//la siguiente liena es para que funcione en otro servidor que no sea openshift
+								//$rutathumb = 'img/todosproductos/'. $rutathumb_db['Tienda']['ruta_thumb'] . '/' .$thumb_name.'.jpg';
 								$thumb_generado = $this->Imgupload->createThumb($ds['Foto']['foto_principal'], $rutathumb, $img['type']);
 				
 										if(!$thumb_generado){
